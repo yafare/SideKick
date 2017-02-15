@@ -1,0 +1,2 @@
+# SideKick
+C++ library
